@@ -49,7 +49,7 @@
 
       https://documenter.getpostman.com/view/16548351/2s9YeD8t6m
 
-## ## How to run this project
+## How to run this project
 
 - clone this project
 - open this project in Visual Studio code
